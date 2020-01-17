@@ -1,0 +1,26 @@
+{
+  "name": "Auth-RestAPis",
+  "version": "1.0.0",
+  "description": "Rest Api Auth With Jwt using Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuruBrahmaraju/Auth-RestAPis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuruBrahmaraju/Auth-RestAPis/issues"
+  },
+  "homepage": "https://github.com/GuruBrahmaraju/Auth-RestAPis#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
